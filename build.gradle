@@ -17,5 +17,6 @@ configurations.all {
 }
 
 dependencies {
+    compile 'com.github.swapUniba:crowd-pulse-data-java:master-SNAPSHOT'
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
